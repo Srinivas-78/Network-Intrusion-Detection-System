@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset Files
+data/*.xlsx
+data/*.csv
+data/*.zip
+
+# Model Files
+models/*.pkl
+models/*.joblib
+
+# Temporary Files
+*.log
+*.tmp
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+
+# Environment Variables
+.env
